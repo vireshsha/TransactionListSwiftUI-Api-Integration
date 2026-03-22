@@ -13,7 +13,4 @@ Additoonal changes from https://github.com/vireshsha/TransactionListSwiftUI
 
 
 ## Environment
-- **Xcode:** 26.3  
-- **Swift:** 5  
-- **Minimum Deployment Target:** iOS 17.0 
-- **Architecture:** MVVM
+- **Minimum Deployment Target:** iOS 17.0
